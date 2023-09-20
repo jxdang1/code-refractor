@@ -7,7 +7,7 @@ This project was to optimize a marketing page with existing code to become more 
 N/A
 
 ## Usage
-To view the page through [GitHub](https://jxdang1.github.io/code-refractor/). Code can also be done via console after navigating to the page.(Ctrl + Shift + I) on Windows and (Shift + ⌘ + I) on macOS
+View the page through [GitHub](https://jxdang1.github.io/code-refractor/). Code can also be done via console after navigating to the page.(Ctrl + Shift + I) on Windows and (Shift + ⌘ + I) on macOS
 
 ## License
 Please view license included in GitHub repository.
